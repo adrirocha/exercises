@@ -1,3 +1,5 @@
+#They didn't send me an answer if it's right or wrong actually
+#Eles não me enviaram uma resposta falando se o código estava certo ou errado
 a = float(input())
 b = float(input())
 c = float(input())
