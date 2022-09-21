@@ -1,2 +1,2 @@
-# beecrowd
-beecrowd's exercises
+# exercises
+
